@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Ko71k/lab04.svg?branch=master)](https://travis-ci.com/Ko71k/lab04)
+[![Build Status](https://travis-ci.com/Ko71k/lab05.svg?branch=master)](https://travis-ci.com/Ko71k/lab05)
 ## Laboratory work 4
 # Домашнее задание
 Данная лабораторная работа посвещена изучению систем автоматизации сборки проекта на примере **CMake**
