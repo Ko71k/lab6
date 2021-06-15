@@ -1,3 +1,0 @@
-/home/rogopl/Rogopl/workspace/projects/lab03/lab03/formatter_lib/CMakeFiles/rebuild_cache.dir
-/home/rogopl/Rogopl/workspace/projects/lab03/lab03/formatter_lib/CMakeFiles/edit_cache.dir
-/home/rogopl/Rogopl/workspace/projects/lab03/lab03/formatter_lib/CMakeFiles/formatter.dir

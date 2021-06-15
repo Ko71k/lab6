@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/rogopl/travis/build/Rogopl/lab04/solver_application/formatter_ex_lib/formatter_lib/formatter.cpp
+/home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib/formatter_lib/formatter.cpp
 formatter.h
-/home/rogopl/travis/build/Rogopl/lab04/solver_application/formatter_ex_lib/formatter_lib/formatter.h
+/home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib/formatter_lib/formatter.h
 
-/home/rogopl/travis/build/Rogopl/lab04/solver_application/formatter_ex_lib/formatter_lib/formatter.h
+/home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib/formatter_lib/formatter.h
 string
 -
 
