@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/Ko71k/lab6.svg?branch=main)](https://travis-ci.com/Ko71k/lab6)
 Все что нужно сделать для сборки кода в покеты - это подключить cpack и продкачать rpm пакет.
 ```
 install(TARGETS hello_world DESTINATION bin)
